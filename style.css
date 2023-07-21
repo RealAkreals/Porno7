@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700,400italic,700italic&subset=latin,cyrillic);
+
+body {
+	background-image: url("phone.png"); 
+}
+
+* {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
